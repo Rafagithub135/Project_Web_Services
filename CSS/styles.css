@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    padding: 5px;
+    margin: 0;
+}
+
+p {
+    padding: 7px;
+    margin: 0;
+}
+
+.first-container {
+    background-color: bisque;
+}
